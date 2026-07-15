@@ -1,6 +1,6 @@
 -- ============================================
 -- Section A: String Functions
--- Name: Ephantus Macharia
+-- Name: samuel mwai
 -- Date: 28/04/2026
 -- ============================================
 
