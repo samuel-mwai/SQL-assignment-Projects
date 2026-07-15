@@ -1,6 +1,6 @@
 -- ============================================
 -- Section F: SET Operators
--- Name: Ephantus Macharia
+-- Name: samuel mwai
 -- Date: 28/04/2026
 
 --Q1: Write a UNION query to show a combined list of all unique cities from the students table and the patients table. Order alphabetically.
