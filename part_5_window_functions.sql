@@ -1,6 +1,6 @@
 -- ============================================
 -- Section E: Window Functions
--- Name: Ephantus Macharia
+-- Name: samuel mwai
 -- Date: 28/04/2026
 
 --Q1: Write a query using ROW_NUMBER() to assign a unique rank to each exam result, ordered from highest mark to lowest. Show result_id, student_id, marks, and row_num.
